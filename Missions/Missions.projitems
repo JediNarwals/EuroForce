@@ -48,6 +48,7 @@
     <None Include="$(MSBuildThisFileDirectory)Stratis\Training-Mission-0.11.Stratis\RifleTargets\fn_TargetInit.sqf" />
     <None Include="$(MSBuildThisFileDirectory)Stratis\Training-Mission-0.11.Stratis\RifleTargets\fn_UnregisterShooter.sqf" />
     <None Include="$(MSBuildThisFileDirectory)Stratis\Training-Mission-0.11.Stratis\RifleTargets\RangeNamesConfig.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Stratis\Training-Mission-0.11.Stratis\scripts\StupidITstuff.sqf" />
     <None Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan.pbo" />
     <None Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\arsenal_presets\3cbBAF.sqf" />
     <None Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\arsenal_presets\custom.sqf" />
