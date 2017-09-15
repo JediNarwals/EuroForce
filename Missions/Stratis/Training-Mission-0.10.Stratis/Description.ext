@@ -1,0 +1,30 @@
+author = "Timai";
+onLoadName = "Stratis Training";
+
+class Header
+{
+	gameType = Coop;
+};
+
+respawn = 3;
+respawnDelay = 5;
+respawnOnStart = 1;
+
+corpseManagerMode = 1;
+corpseLimit = 10;
+corpseRemovalMinTime = 60; //seconds
+corpseRemovalMaxTime = 1200; //seconds
+
+wreckManagerMode = 1;
+wreckLimit = 3;
+wreckRemovalMinTime = 60; //seconds
+wreckRemovalMaxTime = 1200; //seconds
+
+minPlayerDistance = 100; //meters
+
+allowFunctionsRecompile = 0; //Turn this off when the script works before you use in in a multiplayer environment. Prevents hackers from recompiling the functions.
+
+class CfgFunctions
+{
+	#include "RifleTargets\cfgfunctions.hpp"
+};

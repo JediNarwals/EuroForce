@@ -1,0 +1,1 @@
+waitUntil {!isNull player};

@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Missions", "Missions\Missions.shproj", "{B5AEC6CA-47EF-4136-8592-FD63243190DC}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Server", "Server\Server.shproj", "{CF5B2DCA-1EC6-4CE4-A47E-114959007B94}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Missions\Missions.projitems*{b5aec6ca-47ef-4136-8592-fd63243190dc}*SharedItemsImports = 13
+		Server\Server.projitems*{cf5b2dca-1ec6-4ce4-a47e-114959007b94}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
