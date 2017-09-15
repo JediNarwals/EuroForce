@@ -353,6 +353,32 @@
     <None Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\ui\mission_params.hpp" />
     <None Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\ui\standard_controls.hpp" />
     <None Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\whitelist.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan.pbo" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Description.ext" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Air\AirHelicopterPilot.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Air\AirJetPilot.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Air\AirTransportPilot.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Basic\BasicAutorifleman.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Basic\BasicCommand.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Basic\BasicMedic.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Basic\BasicRifle.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Basic\BasicRifleAT.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Basic\BasicRTO.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Recon\ReconCommand.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Recon\ReconJTAC.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Recon\ReconMarksman.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Recon\ReconMedic.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Recon\ReconSpotter.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportAA.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportAmmo762.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportAmmoAA.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportAmmoAT.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportAT.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportCommand.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportHMG.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportMedic.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\Support\SupportRTO.sqf" />
+    <None Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\mission.sqm" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)Stratis\Training-Mission-0.10.Stratis\pics\Range\01.jpg" />
@@ -385,5 +411,6 @@
     <Content Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\res\secondary\fob_obj.jpg" />
     <Content Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\res\secondary\sar.jpg" />
     <Content Include="$(MSBuildThisFileDirectory)Takistan\kp_liberation.Takistan\stringtable.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)Takistan\TakistanBase-0.10.Takistan\Loadouts\unit scripts.txt" />
   </ItemGroup>
 </Project>
